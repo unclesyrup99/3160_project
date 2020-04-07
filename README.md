@@ -14,7 +14,7 @@ MICHEAL ONOSHKO
 
 2.  Use Case  
 *How certain actions will be represented in our system*
-![Use case for delivery service](file:///C:/Users/k20jn/Downloads/Use%20case%20delivery%20%20%20.pdf)
+![Use case for delivery service](https://drive.google.com/file/d/1LtHHqvMCSEKIsT_jMbq0JRYnbyDMquAa/view?usp=sharing)
 3.  Business Rules  
 *Guidelines to how the app will operate*
 
