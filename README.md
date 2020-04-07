@@ -15,6 +15,8 @@ MICHEAL ONOSHKO
 2.  Use Case  
 *How certain actions will be represented in our system*
 [Use case of delivery service](https://drive.google.com/file/d/1LtHHqvMCSEKIsT_jMbq0JRYnbyDMquAa/view?usp=sharing)
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/use_case_diagram.PNG "Use Case Diagram")
+
 3.  Business Rules  
 *Guidelines to how the app will operate*
 
