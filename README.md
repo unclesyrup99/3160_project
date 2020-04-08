@@ -36,6 +36,9 @@ This project will be based on a food delivery service app that is based on campu
 
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/Delivery_EERD1.png)
 
+  Data Dictionary
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/datadictionary.PNG)
+
 5.  MySQL Queries (three)  
 *Our three queries for the database*
 
