@@ -34,6 +34,8 @@ This project will be based on a food delivery service app that is based on campu
 4.  EERD  
 *Plan of how we will design the infrastructure of our app*
 
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/Delivery_EERD.png)
+
 5.  MySQL Queries (three)  
 *Our three queries for the database*
 
