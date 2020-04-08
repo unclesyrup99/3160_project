@@ -7,7 +7,7 @@ RAHUL GAWDI
 DAMIEN GIBBS  
 TIMOTHY GUATNO  
 JOHNATHAN NGUYEN  
-MICHEAL ONOSHKO  
+MICHAEL ONOSHKO  
 
 1.  Introduction  
 *Our goal is to design an app that focuses on food delivery to university students, faculty, and staff.*
