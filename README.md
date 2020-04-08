@@ -12,6 +12,8 @@ MICHEAL ONOSHKO
 1.  Introduction  
 *Our goal is to design an app that focuses on food delivery to university students, faculty, and staff.*
 
+This project will be based on a food delivery service app that is based on campus use only.  Students/faculty/staff will be able to order food on the app and have it delivered to them.  There will be locations that are already included on the app that the user can order from.  These locations will usually be on or around the campus.  Users that are registered as food couriers are only able to receive orders from students that have placed orders on the app.
+
 2.  Use Case  
 *How certain actions will be represented in our system*
 [Use case of delivery service](https://drive.google.com/file/d/1LtHHqvMCSEKIsT_jMbq0JRYnbyDMquAa/view?usp=sharing)
@@ -19,6 +21,15 @@ MICHEAL ONOSHKO
 
 3.  Business Rules  
 *Guidelines to how the app will operate*
+
+Drivers will use app to keep business and customers updated on order
+Drivers will follow instructions left by customers when arriving
+Each delivery goes to one customer only
+Each order is for one and only one restaurant
+Each delivery goes to one address only
+Email must end in @uncc.edu (valid uncc email)
+All delivery personnel are students
+
 
 4.  EERD  
 *Plan of how we will design the infrastructure of our app*
