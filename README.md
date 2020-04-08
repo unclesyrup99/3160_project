@@ -22,13 +22,13 @@ This project will be based on a food delivery service app that is based on campu
 3.  Business Rules  
 *Guidelines to how the app will operate*
 
-Drivers will use app to keep business and customers updated on order  
-Drivers will follow instructions left by customers when arriving  
-Each delivery goes to one customer only  
-Each order is for one and only one restaurant  
-Each delivery goes to one address only  
-Email must end in @uncc.edu (valid uncc email)  
-All delivery personnel are students  
+-Drivers will use app to keep business and customers updated on order  
+-Drivers will follow instructions left by customers when arriving  
+-Each delivery goes to one customer only  
+-Each order is for one and only one restaurant  
+-Each delivery goes to one address only  
+-Email must end in @uncc.edu (valid uncc email)  
+-All delivery personnel are students  
 
 
 4.  EERD  
