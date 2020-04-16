@@ -53,5 +53,5 @@ This project will be based on a food delivery service app that is based on campu
 8.  Web/App Implementation (Optional) or Description of Future Work  
 *Ways our app will function quickly and efficiently.*
 
-9.  MySQL dump  
+9.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/Dumpcode.sql
 *Record of data from our database*
