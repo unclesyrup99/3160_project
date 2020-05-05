@@ -44,11 +44,12 @@ This project will be based on a food delivery service app that is based on campu
 5.  MySQL Queries (three)  
 *Our three queries for the database*
 
-6.  Trigger  
+6.  Trigger  -(optional)
 *Certain procedures that are to be executed automatically when appropriate*
 
-7.  Stored Procedure  
+7.  Stored Procedure  - (optional)
 *Prepared code meant to be used multiple times*
+
 
 8.  Web/App Implementation (Optional) or Description of Future Work  
 *Ways our app will function quickly and efficiently.*
