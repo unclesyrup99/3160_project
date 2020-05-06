@@ -85,4 +85,4 @@ https://github.com/unclesyrup99/3160_project/blob/master/finalmysqldump.sql
 
 ## 12. Video Presentation
 *Presenting the project as a whole
-<link>
+https://youtu.be/ILDp7CiuQrw
