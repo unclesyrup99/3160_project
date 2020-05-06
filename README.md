@@ -40,15 +40,16 @@ This project will be based on a food delivery service app that is based on campu
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/datadictionary.PNG)
 
 5. Three MySQL Queries
-
-6.  MySQL Advanced Queries  
-Query 1:  
-![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query.png)  
+Query 1:
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/query%201.PNG)
 
 Query 2:  
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query.png)  
+
+Query 3:  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query_2.png)  
 
-7. Current Data In Database:
+6. Current Data In Database:
 Table: Driver  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/driver.png)  
 Table: Faculty  
@@ -66,19 +67,18 @@ Table: staff
 Table: student  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/student.png)  
 
-8.  Trigger  -(optional)
+7.  Trigger  -(optional)
 *Certain procedures that are to be executed automatically when appropriate*
 
-9.  Stored Procedure  - (optional)
+8.  Stored Procedure  - (optional)
 *Prepared code meant to be used multiple times*
 
-
-10.  Web/App Implementation (Optional) or Description of Future Work  
+9.  Web/App Implementation (Optional) or Description of Future Work  
 *Ways our app will function quickly and efficiently.*
 
-11.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/finalmysqldump.sql
+10.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/finalmysqldump.sql
 *Record of data from our database*
 
-12. Video Presentation
+11. Video Presentation
 *Presenting the project as a whole
 <link>
