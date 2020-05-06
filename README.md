@@ -56,8 +56,13 @@ Table: staff
 Table: student  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/student.png)  
 
-5.  MySQL Queries (three)  
-*Our three queries for the database*
+5.  MySQL Advanced Queries
+Query 1:  
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query.png)  
+
+Query 2:  
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query_2.png)  
+
 
 6.  Trigger  -(optional)
 *Certain procedures that are to be executed automatically when appropriate*
