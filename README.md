@@ -41,31 +41,31 @@ This project will be based on a food delivery service app that is based on campu
 
 ## 6. Three MySQL Queries
 
-Query 1:  
+#### Query 1:  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/query%201.PNG)
 
-Query 2:  
+#### Query 2:  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query.png)  
 
-Query 3:  
+#### Query 3:  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query_2.png)  
 
 ## 7. Current Data In Database:
-Table: Driver  
+#### Table: Driver  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/driver.png)  
-Table: Faculty  
+#### Table: Faculty  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/faculty.png)  
-Table: Locations  
+#### Table: Locations  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/locations.png)  
-Table: Order  
+#### Table: Order  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/order.png)  
-Table: persons  
+#### Table: persons  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/persons.png)  
-Table: restaurant  
+#### Table: restaurant  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/restaurant.png)  
-Table: staff  
+#### Table: staff  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/staff.png)  
-Table: student  
+#### Table: student  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/student.png)  
 
 ## 8.  Trigger  -(optional)
