@@ -74,7 +74,7 @@ Query 2:
 8.  Web/App Implementation (Optional) or Description of Future Work  
 *Ways our app will function quickly and efficiently.*
 
-9.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/Dumpcode.sql
+9.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/finalmysqldump.sql
 *Record of data from our database*
 
 10. Video Presentation
