@@ -171,7 +171,8 @@ CREATE TABLE `restaurant` (
 
 LOCK TABLES `restaurant` WRITE;
 /*!40000 ALTER TABLE `restaurant` DISABLE KEYS */;
-/*!40000 ALTER TABLE `restaurant` ENABLE KEYS */;
+INSERT INTO `restaurant` VALUES (1, '123 street', 'Meatballs', 'www.meatballs.com', '3334423', 'm-f 9-9', 'hotdog, cheeseburger'),(2, '321 St', 'Pizzas', 'www.Pizzas.com', '3353483', 'm-f 12-12', 'pizza'),(3, 'Peach street', 'Subs N More', 'www.sandwiches.com', '9862468', 'Mondays close, T-S 12-9', 'ham and cheese'),(4, 'Main Blvd', 'SushiRolls', 'www.sushi.com', '6583197', 'T-Sat 12-7pm', 'sushi')
+/*!40000 ALTER TABLE `restaurant`` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
