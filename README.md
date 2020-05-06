@@ -56,7 +56,7 @@ Table: staff
 Table: student  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/student.png)  
 
-5.  MySQL Advanced Queries
+5.  MySQL Advanced Queries  
 Query 1:  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/advanced_query.png)  
 
