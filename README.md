@@ -39,21 +39,21 @@ This project will be based on a food delivery service app that is based on campu
   
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/datadictionary.PNG)
 
-Table: Driver
+Table: Driver  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/driver.png)  
-Table: Faculty
+Table: Faculty  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/faculty.png)  
-Table: Locations
+Table: Locations  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/locations.png)  
-Table: Order
+Table: Order  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/order.png)  
-Table: persons
+Table: persons  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/persons.png)  
-Table: restaurant
+Table: restaurant  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/restaurant.png)  
-Table: staff
+Table: staff  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/staff.png)  
-Table: student
+Table: student  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/student.png)  
 
 5.  MySQL Queries (three)  
