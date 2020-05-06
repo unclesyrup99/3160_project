@@ -93,6 +93,7 @@ CREATE TABLE `locations` (
 
 LOCK TABLES `locations` WRITE;
 /*!40000 ALTER TABLE `locations` DISABLE KEYS */;
+INSERT INTO `locations` VALUES (1, 'Park', '123 Part Street', 562.089, 5965.565, 'The pole in the park.'),(2,'Library', '321 Library Street', 62.056, 1645.895, 'Front of library'),(3,'Quad', 'Main Ave', 756.6, 9863.685, 'The grass quad.')
 /*!40000 ALTER TABLE `locations` ENABLE KEYS */;
 UNLOCK TABLES;
 
