@@ -30,7 +30,6 @@ This project will be based on a food delivery service app that is based on campu
 -Email must end in @uncc.edu (valid uncc email)  
 -All delivery personnel are students  
 
-
 4.  EERD  
 *Plan of how we will design the infrastructure of our app*
 
@@ -38,8 +37,24 @@ This project will be based on a food delivery service app that is based on campu
 
   Data Dictionary
   
-  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/datadictionary.PNG)
+
+Table: Driver
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/driver.png)
+Table: Faculty
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/faculty.png)
+Table: Locations
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/locations.png)
+Table: Order
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/order.png)
+Table: persons
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/persons.png)
+Table: restaurant
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/restaurant.png)
+Table: staff
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/staff.png)
+Table: student
+![alt text](https://github.com/unclesyrup99/3160_project/blob/master/student.png)
 
 5.  MySQL Queries (three)  
 *Our three queries for the database*
