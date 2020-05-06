@@ -40,7 +40,8 @@ This project will be based on a food delivery service app that is based on campu
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/datadictionary.PNG)
 
 ## 6. Three MySQL Queries
-Query 1:
+
+Query 1:  
 ![alt text](https://github.com/unclesyrup99/3160_project/blob/master/query%201.PNG)
 
 Query 2:  
@@ -76,8 +77,11 @@ Table: student
 ## 10.  Web/App Implementation (Optional) or Description of Future Work  
 *Ways our app will function quickly and efficiently.*
 
-## 11.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/finalmysqldump.sql
-*Record of data from our database*
+## 11.  MySQL dump  
+
+*Record of data from our database*  
+https://github.com/unclesyrup99/3160_project/blob/master/finalmysqldump.sql
+
 
 ## 12. Video Presentation
 *Presenting the project as a whole
