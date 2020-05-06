@@ -56,3 +56,7 @@ This project will be based on a food delivery service app that is based on campu
 
 9.  MySQL dump  https://github.com/unclesyrup99/3160_project/blob/master/Dumpcode.sql
 *Record of data from our database*
+
+10. Video Presentation
+*Presenting the project as a whole
+<link>
